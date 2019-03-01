@@ -1,0 +1,3 @@
+rootProject.name = 'desbloqueador_facial_1129'
+
+include ':app'
